@@ -1,0 +1,20 @@
+.job-page-link-item {
+  width: 100%;
+  text-decoration: none;
+  cursor: auto;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  background-color: #000;
+  height: 100vh;
+}
+.filters-container {
+  width: 30%;
+}
+.jobs-container {
+  width: 70%;
+}
