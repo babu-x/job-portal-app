@@ -1,0 +1,25 @@
+.filters-heading {
+  color: #f1f5f9;
+  font-family: 'roboto';
+  font-weight: 500;
+  font-size: 19px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.checkbox-container {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+.checkbox {
+  height: 15px;
+  width: 15px;
+  margin-right: 8px;
+}
+.checkbox-label {
+  color: #f1f5f9;
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 15px;
+}
